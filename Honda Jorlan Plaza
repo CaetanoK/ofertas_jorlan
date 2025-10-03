@@ -5,6 +5,7 @@
     "Tipo": "Versão Topo",
     "Ano__Modelo": "25/25",
     "Condi__es": "R$ 265.900",
+    "Oferta_PCD": "Não",
     "Validade_da_Oferta": "30/09/2025"
   },
   {
@@ -13,6 +14,7 @@
     "Tipo": "Versão de entrada",
     "Ano__Modelo": "25/25",
     "Condi__es": "R$ 117.500",
+    "Oferta_PCD": "Não",
     "Validade_da_Oferta": "30/09/2025"
   },
   {
@@ -21,6 +23,7 @@
     "Tipo": "Versão Intermediária",
     "Ano__Modelo": "25/25",
     "Condi__es": "R$ 134.000 ",
+    "Oferta_PCD": "",
     "Validade_da_Oferta": "30/09/2025"
   },
   {
@@ -29,6 +32,7 @@
     "Tipo": "Versão Intermediária",
     "Ano__Modelo": "25/25",
     "Condi__es": "R$ 141.300 ",
+    "Oferta_PCD": "",
     "Validade_da_Oferta": "30/09/2025"
   },
   {
@@ -37,6 +41,7 @@
     "Tipo": "Versão Topo",
     "Ano__Modelo": "25/25",
     "Condi__es": "R$ 149.800",
+    "Oferta_PCD": "",
     "Validade_da_Oferta": "30/09/2025"
   },
   {
@@ -45,6 +50,7 @@
     "Tipo": "Versão Topo",
     "Ano__Modelo": "25/25",
     "Condi__es": "R$ 152.800",
+    "Oferta_PCD": "",
     "Validade_da_Oferta": "30/09/2025"
   },
   {
@@ -53,6 +59,7 @@
     "Tipo": "Versão de entrada",
     "Ano__Modelo": "25/25",
     "Condi__es": "R$ 117.500",
+    "Oferta_PCD": "",
     "Validade_da_Oferta": "30/09/2025"
   },
   {
@@ -61,6 +68,7 @@
     "Tipo": "Versão Intermediária",
     "Ano__Modelo": "25/25",
     "Condi__es": "R$ 135.000",
+    "Oferta_PCD": "",
     "Validade_da_Oferta": "30/09/2025"
   },
   {
@@ -69,6 +77,7 @@
     "Tipo": "Versão Intermediária",
     "Ano__Modelo": "25/25",
     "Condi__es": "R$ 142.300",
+    "Oferta_PCD": "",
     "Validade_da_Oferta": "30/09/2025"
   },
   {
@@ -77,6 +86,7 @@
     "Tipo": "Versão Topo",
     "Ano__Modelo": "25/25",
     "Condi__es": "R$ 150.800",
+    "Oferta_PCD": "",
     "Validade_da_Oferta": "30/09/2025"
   },
   {
@@ -85,6 +95,7 @@
     "Tipo": "Versão Intermediária",
     "Ano__Modelo": "25/26",
     "Condi__es": "R$ 163.200",
+    "Oferta_PCD": "",
     "Validade_da_Oferta": "30/09/2025"
   },
   {
@@ -93,6 +104,7 @@
     "Tipo": "Versão Intermediária",
     "Ano__Modelo": "25/26",
     "Condi__es": "R$ 170.900",
+    "Oferta_PCD": "",
     "Validade_da_Oferta": "30/09/2025"
   },
   {
@@ -101,6 +113,7 @@
     "Tipo": "Versão Intermediária",
     "Ano__Modelo": "25/26",
     "Condi__es": "R$ 199.400",
+    "Oferta_PCD": "",
     "Validade_da_Oferta": "30/09/2025"
   },
   {
@@ -109,6 +122,106 @@
     "Tipo": "Versão Topo",
     "Ano__Modelo": "25/26",
     "Condi__es": "R$ 209.900",
+    "Oferta_PCD": "",
     "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "EX / EXL ",
+    "Tipo": "Versão Intermediária",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "100% da tabela FIPE no usado Honda OU Bônus de R$10 mil para seminovo multimarca (5 anos de garantia de fábrica)\n",
+    "Oferta_PCD": "",
+    "Validade_da_Oferta": "31/10/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "EX / EXL ",
+    "Tipo": "Versão Intermediária",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "(VENDA DIRETA) Bônus de R$10 mil para seminovo multimarca + 5 anos de garantia de fábrica \n",
+    "Oferta_PCD": "",
+    "Validade_da_Oferta": "31/10/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "ADVANCE",
+    "Tipo": "Versão Topo",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "3 primeiras revisões grátis + Emplacamento + Supervalorização do usado + 5 anos de garantia de fábrica \n",
+    "Oferta_PCD": "",
+    "Validade_da_Oferta": "31/10/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "EX / EXL / TOURING ",
+    "Tipo": "Versão Intermediária",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "3 primeiras revisões grátis + Emplacamento + 5 anos de garantia de fábrica \n",
+    "Oferta_PCD": "",
+    "Validade_da_Oferta": "31/10/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "EX / EXL / TOURING ",
+    "Tipo": "Versão Intermediária",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "3 primeiras revisões grátis + Emplacamento + 5 anos de garantia de fábrica \n",
+    "Oferta_PCD": "",
+    "Validade_da_Oferta": "31/10/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "LX",
+    "Tipo": "Versão de entrada",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "(VENDA DIRETA)  R$ 119.400 por R$ 98.779,62 com isenção IPI + ICMS parcial",
+    "Oferta_PCD": "SIM",
+    "Validade_da_Oferta": "20/10/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "LX",
+    "Tipo": "Versão de entrada",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "(VENDA DIRETA) Entrada + 36x de R$ 566,76 + parcela final + Supervalorização no seu seminovo Honda",
+    "Oferta_PCD": "SIM",
+    "Validade_da_Oferta": "20/10/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "EX",
+    "Tipo": "Versão Intermediária",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "(VENDA DIRETA) de R$ 165.400 por R$ 148.860 + Supervalorização no seu seminovo Honda",
+    "Oferta_PCD": "SIM",
+    "Validade_da_Oferta": "20/10/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "EX",
+    "Tipo": "Versão Intermediária",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "(VENDA DIRETA PJ) de R$ 136.900 por R$ 127.317 + Supervalorização no seu seminovo Honda",
+    "Oferta_PCD": "Não",
+    "Validade_da_Oferta": "20/10/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "EX",
+    "Tipo": "Versão de entrada",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "(VENDA DIRETA PJ) de R$ 165.400 por R$ 153.822 + Supervalorização no seu seminovo Honda",
+    "Oferta_PCD": "Não",
+    "Validade_da_Oferta": "20/10/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "EX ",
+    "Tipo": "Versão Intermediária",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "(VENDA DIRETA PJ) de R$ 135.900 por R$ 126.387 + Supervalorização no seu seminovo Honda",
+    "Oferta_PCD": "Não",
+    "Validade_da_Oferta": "20/10/2025"
   }
 ]
