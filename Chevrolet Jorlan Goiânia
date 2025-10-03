@@ -1,1 +1,2354 @@
-
+[
+  {
+    "Modelos": "Civic Híbrido",
+    "Vers_o": "Advanced Hybrid ",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 265.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "LX",
+    "Tipo": "Entrada",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 117.500",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 134.000 ",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 141.300 ",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 149.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "TOURING SPORT  ",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 152.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan ",
+    "Vers_o": "LX",
+    "Tipo": "Entrada",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 117.500",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 135.000",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 142.300",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 150.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 163.200",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 170.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "Advance",
+    "Tipo": "Intermediário 3",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 199.400",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 209.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "Civic Híbrido",
+    "Vers_o": "Advanced Hybrid ",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 265.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "LX",
+    "Tipo": "Entrada",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 117.500",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 134.000 ",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 141.300 ",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 149.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "TOURING SPORT  ",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 152.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan ",
+    "Vers_o": "LX",
+    "Tipo": "Entrada",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 117.500",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 135.000",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 142.300",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 150.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 163.200",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 170.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "Advance",
+    "Tipo": "Intermediário 3",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 199.400",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 209.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "Civic Híbrido",
+    "Vers_o": "Advanced Hybrid ",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 265.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "LX",
+    "Tipo": "Entrada",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 117.500",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 134.000 ",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 141.300 ",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 149.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "TOURING SPORT  ",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 152.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan ",
+    "Vers_o": "LX",
+    "Tipo": "Entrada",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 117.500",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 135.000",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 142.300",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 150.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 163.200",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 170.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "Advance",
+    "Tipo": "Intermediário 3",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 199.400",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 209.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "Civic Híbrido",
+    "Vers_o": "Advanced Hybrid ",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 265.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "LX",
+    "Tipo": "Entrada",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 117.500",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 134.000 ",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 141.300 ",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 149.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "TOURING SPORT  ",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 152.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan ",
+    "Vers_o": "LX",
+    "Tipo": "Entrada",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 117.500",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 135.000",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 142.300",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 150.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 163.200",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 170.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "Advance",
+    "Tipo": "Intermediário 3",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 199.400",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 209.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "Civic Híbrido",
+    "Vers_o": "Advanced Hybrid ",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 265.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "LX",
+    "Tipo": "Entrada",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 117.500",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 134.000 ",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 141.300 ",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 149.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "TOURING SPORT  ",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 152.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan ",
+    "Vers_o": "LX",
+    "Tipo": "Entrada",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 117.500",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 135.000",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 142.300",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 150.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 163.200",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 170.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "Advance",
+    "Tipo": "Intermediário 3",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 199.400",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 209.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "Civic Híbrido",
+    "Vers_o": "Advanced Hybrid ",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 265.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "LX",
+    "Tipo": "Entrada",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 117.500",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 134.000 ",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 141.300 ",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 149.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "TOURING SPORT  ",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 152.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan ",
+    "Vers_o": "LX",
+    "Tipo": "Entrada",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 117.500",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 135.000",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 142.300",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 150.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 163.200",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 170.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "Advance",
+    "Tipo": "Intermediário 3",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 199.400",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 209.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "Civic Híbrido",
+    "Vers_o": "Advanced Hybrid ",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 265.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "LX",
+    "Tipo": "Entrada",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 117.500",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 134.000 ",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 141.300 ",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 149.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "TOURING SPORT  ",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 152.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan ",
+    "Vers_o": "LX",
+    "Tipo": "Entrada",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 117.500",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 135.000",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 142.300",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 150.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 163.200",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 170.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "Advance",
+    "Tipo": "Intermediário 3",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 199.400",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 209.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "Civic Híbrido",
+    "Vers_o": "Advanced Hybrid ",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 265.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "LX",
+    "Tipo": "Entrada",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 117.500",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 134.000 ",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 141.300 ",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 149.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "TOURING SPORT  ",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 152.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan ",
+    "Vers_o": "LX",
+    "Tipo": "Entrada",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 117.500",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 135.000",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 142.300",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 150.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 163.200",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 170.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "Advance",
+    "Tipo": "Intermediário 3",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 199.400",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 209.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "Civic Híbrido",
+    "Vers_o": "Advanced Hybrid ",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 265.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "LX",
+    "Tipo": "Entrada",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 117.500",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 134.000 ",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 141.300 ",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 149.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "TOURING SPORT  ",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 152.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan ",
+    "Vers_o": "LX",
+    "Tipo": "Entrada",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 117.500",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 135.000",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 142.300",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 150.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 163.200",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 170.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "Advance",
+    "Tipo": "Intermediário 3",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 199.400",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 209.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "Civic Híbrido",
+    "Vers_o": "Advanced Hybrid ",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 265.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "LX",
+    "Tipo": "Entrada",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 117.500",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 134.000 ",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 141.300 ",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 149.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "TOURING SPORT  ",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 152.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan ",
+    "Vers_o": "LX",
+    "Tipo": "Entrada",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 117.500",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 135.000",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 142.300",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 150.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 163.200",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 170.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "Advance",
+    "Tipo": "Intermediário 3",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 199.400",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 209.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "Civic Híbrido",
+    "Vers_o": "Advanced Hybrid ",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 265.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "LX",
+    "Tipo": "Entrada",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 117.500",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 134.000 ",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 141.300 ",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 149.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "TOURING SPORT  ",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 152.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan ",
+    "Vers_o": "LX",
+    "Tipo": "Entrada",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 117.500",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 135.000",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 142.300",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 150.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 163.200",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 170.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "Advance",
+    "Tipo": "Intermediário 3",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 199.400",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 209.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "Civic Híbrido",
+    "Vers_o": "Advanced Hybrid ",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 265.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "LX",
+    "Tipo": "Entrada",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 117.500",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 134.000 ",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 141.300 ",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 149.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "TOURING SPORT  ",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 152.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan ",
+    "Vers_o": "LX",
+    "Tipo": "Entrada",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 117.500",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 135.000",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 142.300",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 150.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 163.200",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 170.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "Advance",
+    "Tipo": "Intermediário 3",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 199.400",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 209.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "Civic Híbrido",
+    "Vers_o": "Advanced Hybrid ",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 265.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "LX",
+    "Tipo": "Entrada",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 117.500",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 134.000 ",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 141.300 ",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 149.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "TOURING SPORT  ",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 152.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan ",
+    "Vers_o": "LX",
+    "Tipo": "Entrada",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 117.500",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 135.000",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 142.300",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 150.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 163.200",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 170.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "Advance",
+    "Tipo": "Intermediário 3",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 199.400",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 209.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "Civic Híbrido",
+    "Vers_o": "Advanced Hybrid ",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 265.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "LX",
+    "Tipo": "Entrada",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 117.500",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 134.000 ",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 141.300 ",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 149.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "TOURING SPORT  ",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 152.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan ",
+    "Vers_o": "LX",
+    "Tipo": "Entrada",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 117.500",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 135.000",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 142.300",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 150.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 163.200",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 170.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "Advance",
+    "Tipo": "Intermediário 3",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 199.400",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 209.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "Civic Híbrido",
+    "Vers_o": "Advanced Hybrid ",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 265.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "LX",
+    "Tipo": "Entrada",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 117.500",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 134.000 ",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 141.300 ",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 149.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "TOURING SPORT  ",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 152.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan ",
+    "Vers_o": "LX",
+    "Tipo": "Entrada",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 117.500",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 135.000",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 142.300",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 150.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 163.200",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 170.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "Advance",
+    "Tipo": "Intermediário 3",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 199.400",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 209.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "Civic Híbrido",
+    "Vers_o": "Advanced Hybrid ",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 265.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "LX",
+    "Tipo": "Entrada",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 117.500",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 134.000 ",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 141.300 ",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 149.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "TOURING SPORT  ",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 152.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan ",
+    "Vers_o": "LX",
+    "Tipo": "Entrada",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 117.500",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 135.000",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 142.300",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 150.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 163.200",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 170.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "Advance",
+    "Tipo": "Intermediário 3",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 199.400",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 209.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "Civic Híbrido",
+    "Vers_o": "Advanced Hybrid ",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 265.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "LX",
+    "Tipo": "Entrada",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 117.500",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 134.000 ",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 141.300 ",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 149.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "TOURING SPORT  ",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 152.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan ",
+    "Vers_o": "LX",
+    "Tipo": "Entrada",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 117.500",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 135.000",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 142.300",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 150.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 163.200",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 170.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "Advance",
+    "Tipo": "Intermediário 3",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 199.400",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 209.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "Civic Híbrido",
+    "Vers_o": "Advanced Hybrid ",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 265.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "LX",
+    "Tipo": "Entrada",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 117.500",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 134.000 ",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 141.300 ",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 149.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "TOURING SPORT  ",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 152.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan ",
+    "Vers_o": "LX",
+    "Tipo": "Entrada",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 117.500",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 135.000",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 142.300",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 150.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 163.200",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 170.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "Advance",
+    "Tipo": "Intermediário 3",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 199.400",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 209.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "Civic Híbrido",
+    "Vers_o": "Advanced Hybrid ",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 265.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "LX",
+    "Tipo": "Entrada",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 117.500",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 134.000 ",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 141.300 ",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 149.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "TOURING SPORT  ",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 152.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan ",
+    "Vers_o": "LX",
+    "Tipo": "Entrada",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 117.500",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 135.000",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 142.300",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 150.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 163.200",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 170.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "Advance",
+    "Tipo": "Intermediário 3",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 199.400",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 209.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "Civic Híbrido",
+    "Vers_o": "Advanced Hybrid ",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 265.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "LX",
+    "Tipo": "Entrada",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 117.500",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 134.000 ",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 141.300 ",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 149.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "TOURING SPORT  ",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 152.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan ",
+    "Vers_o": "LX",
+    "Tipo": "Entrada",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 117.500",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 135.000",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 142.300",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 150.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 163.200",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 170.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "Advance",
+    "Tipo": "Intermediário 3",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 199.400",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 209.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "Civic Híbrido",
+    "Vers_o": "Advanced Hybrid ",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 265.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "LX",
+    "Tipo": "Entrada",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 117.500",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 134.000 ",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 141.300 ",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 149.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Hatch",
+    "Vers_o": "TOURING SPORT  ",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 152.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan ",
+    "Vers_o": "LX",
+    "Tipo": "Entrada",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 117.500",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 135.000",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 142.300",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "City Sedan",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/25",
+    "Condi__es": "R$ 150.800",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "EX",
+    "Tipo": "Intermediário 1",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 163.200",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "EXL",
+    "Tipo": "Intermediário 2",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 170.900",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "Advance",
+    "Tipo": "Intermediário 3",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 199.400",
+    "Validade_da_Oferta": "30/09/2025"
+  },
+  {
+    "Modelos": "HR-V",
+    "Vers_o": "TOURING",
+    "Tipo": "Topo",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "R$ 209.900",
+    "Validade_da_Oferta": "30/09/2025"
+  }
+]
