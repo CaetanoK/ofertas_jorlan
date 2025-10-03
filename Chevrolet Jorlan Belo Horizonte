@@ -1,114 +1,98 @@
 [
   {
-    "Modelos": "Civic Híbrido",
-    "Vers_o": "Advanced Hybrid ",
-    "Tipo": "Versão Topo",
-    "Ano__Modelo": "25/25",
-    "Condi__es": "R$ 265.900",
-    "Validade_da_Oferta": "30/09/2025"
-  },
-  {
-    "Modelos": "City Hatch",
-    "Vers_o": "LX",
+    "Modelos": "Novo Onix Hatch",
+    "Vers_o": "Aspirado",
     "Tipo": "Versão de entrada",
-    "Ano__Modelo": "25/25",
-    "Condi__es": "R$ 117.500",
-    "Validade_da_Oferta": "30/09/2025"
+    "Ano__Modelo": "2025/2026",
+    "Condi__es": "De R$ 99.990 por R$ 84.990 à vista. Inclui 5 anos de garantia.",
+    "Validade_da_Oferta": "31/10/2025"
   },
   {
-    "Modelos": "City Hatch",
-    "Vers_o": "EX",
+    "Modelos": "Novo Onix Hatch Turbo",
+    "Vers_o": "LTZ",
     "Tipo": "Versão Intermediária",
-    "Ano__Modelo": "25/25",
-    "Condi__es": "R$ 134.000 ",
-    "Validade_da_Oferta": "30/09/2025"
+    "Ano__Modelo": "2025/2026",
+    "Condi__es": "A partir de 114.990,",
+    "Validade_da_Oferta": "31/10/2025"
   },
   {
-    "Modelos": "City Hatch",
-    "Vers_o": "EXL",
+    "Modelos": "Novo Tracker ",
+    "Vers_o": "Premier",
+    "Tipo": "Versão Topo",
+    "Ano__Modelo": "2025/2026",
+    "Condi__es": "De 174.990,00 Por 165.990,",
+    "Validade_da_Oferta": "31/10/2025"
+  },
+  {
+    "Modelos": "Spark EUV",
+    "Vers_o": "ACTIV",
+    "Tipo": "Versão Única",
+    "Ano__Modelo": "2025/2025",
+    "Condi__es": "R$ 159.990 com taxa zero e pronta entrega.",
+    "Validade_da_Oferta": "31/10/2025"
+  },
+  {
+    "Modelos": "Spin",
+    "Vers_o": "LTZ",
     "Tipo": "Versão Intermediária",
-    "Ano__Modelo": "25/25",
-    "Condi__es": "R$ 141.300 ",
-    "Validade_da_Oferta": "30/09/2025"
+    "Ano__Modelo": "2025/2026",
+    "Condi__es": "De R$ 152.640 por R$ 147.790, com 7 lugares Taxa Zero",
+    "Validade_da_Oferta": "31/10/2025"
   },
   {
-    "Modelos": "City Hatch",
-    "Vers_o": "TOURING",
+    "Modelos": "S10 ",
+    "Vers_o": "High Country",
     "Tipo": "Versão Topo",
-    "Ano__Modelo": "25/25",
-    "Condi__es": "R$ 149.800",
-    "Validade_da_Oferta": "30/09/2025"
+    "Ano__Modelo": "2025/2025",
+    "Condi__es": "De R$ 325.540 por R$ 305.990, com 5 anos de garantia.",
+    "Validade_da_Oferta": "31/10/2025"
   },
   {
-    "Modelos": "City Hatch",
-    "Vers_o": "TOURING SPORT  ",
+    "Modelos": "Silverado",
+    "Vers_o": "High Country",
     "Tipo": "Versão Topo",
-    "Ano__Modelo": "25/25",
-    "Condi__es": "R$ 152.800",
-    "Validade_da_Oferta": "30/09/2025"
+    "Ano__Modelo": "2024/2025",
+    "Condi__es": "De R$ 573.990 por R$ 489.990, incluindo tampa traseira com degrau Multi-Flex.",
+    "Validade_da_Oferta": "31/10/2025"
   },
   {
-    "Modelos": "City Sedan ",
-    "Vers_o": "LX",
+    "Modelos": "Tracker ",
+    "Vers_o": "AT",
     "Tipo": "Versão de entrada",
-    "Ano__Modelo": "25/25",
-    "Condi__es": "R$ 117.500",
-    "Validade_da_Oferta": "30/09/2025"
+    "Ano__Modelo": "2025/2026",
+    "Condi__es": "A partir de 119.990,",
+    "Validade_da_Oferta": "31/10/2025"
   },
   {
-    "Modelos": "City Sedan",
-    "Vers_o": "EX",
+    "Modelos": "Tracker ",
+    "Vers_o": "LT ",
     "Tipo": "Versão Intermediária",
-    "Ano__Modelo": "25/25",
-    "Condi__es": "R$ 135.000",
-    "Validade_da_Oferta": "30/09/2025"
+    "Ano__Modelo": "2025/2026",
+    "Condi__es": "A partir de 134.990,",
+    "Validade_da_Oferta": "31/10/2025"
   },
   {
-    "Modelos": "City Sedan",
-    "Vers_o": "EXL",
-    "Tipo": "Versão Intermediária",
-    "Ano__Modelo": "25/25",
-    "Condi__es": "R$ 142.300",
-    "Validade_da_Oferta": "30/09/2025"
+    "Modelos": "Equinox ",
+    "Vers_o": "EV",
+    "Tipo": "Versão Única",
+    "Ano__Modelo": "2024/2024",
+    "Condi__es": "A partir de 349.990, Super Valorização do Usado",
+    "Validade_da_Oferta": "31/10/2025"
   },
   {
-    "Modelos": "City Sedan",
-    "Vers_o": "TOURING",
+    "Modelos": "Montana",
+    "Vers_o": "RS",
     "Tipo": "Versão Topo",
-    "Ano__Modelo": "25/25",
-    "Condi__es": "R$ 150.800",
-    "Validade_da_Oferta": "30/09/2025"
+    "Ano__Modelo": "2025/2025",
+    "Condi__es": "A partir de 159.990,",
+    "Validade_da_Oferta": "31/10/2025"
   },
   {
-    "Modelos": "HR-V",
-    "Vers_o": "EX",
+    "Modelos": "Onix Turbo Automático",
+    "Vers_o": "LT",
     "Tipo": "Versão Intermediária",
-    "Ano__Modelo": "25/26",
-    "Condi__es": "R$ 163.200",
-    "Validade_da_Oferta": "30/09/2025"
-  },
-  {
-    "Modelos": "HR-V",
-    "Vers_o": "EXL",
-    "Tipo": "Versão Intermediária",
-    "Ano__Modelo": "25/26",
-    "Condi__es": "R$ 170.900",
-    "Validade_da_Oferta": "30/09/2025"
-  },
-  {
-    "Modelos": "HR-V",
-    "Vers_o": "Advance",
-    "Tipo": "Versão Intermediária",
-    "Ano__Modelo": "25/26",
-    "Condi__es": "R$ 199.400",
-    "Validade_da_Oferta": "30/09/2025"
-  },
-  {
-    "Modelos": "HR-V",
-    "Vers_o": "TOURING",
-    "Tipo": "Versão Topo",
-    "Ano__Modelo": "25/26",
-    "Condi__es": "R$ 209.900",
-    "Validade_da_Oferta": "30/09/2025"
+    "Ano__Modelo": "2025/2026",
+    "Condi__es": "A Partir de 106.990,",
+    "Validade_da_Oferta": ""
   }
 ]
