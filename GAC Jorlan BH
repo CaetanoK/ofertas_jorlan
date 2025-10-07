@@ -1,110 +1,56 @@
 [
   {
-    "Modelos": "Novo Onix Hatch",
-    "Vers_o": "LT",
-    "Tipo": "Versão Intermediária",
-    "Ano__Modelo": "2025/2026",
-    "Condi__es": "De R$ 99.990 por R$ 84.990 à vista. Inclui 5 anos de garantia.",
-    "Oferta_PCD": "Não",
-    "Validade_da_Oferta": "30/09/2025"
-  },
-  {
-    "Modelos": "Novo Onix Hatch Turbo",
-    "Vers_o": "LTZ",
-    "Tipo": "Versão Intermediária",
-    "Ano__Modelo": "2025/2026",
-    "Condi__es": "Entrada de R$ 34.990 + R$ 1.499 mensais + parcela final. Inclui 5 anos de garantia.",
-    "Oferta_PCD": "Não",
-    "Validade_da_Oferta": "30/09/2025"
-  },
-  {
-    "Modelos": "",
-    "Vers_o": "",
-    "Tipo": "Versão Intermediária",
-    "Ano__Modelo": "",
-    "Condi__es": "",
+    "Modelos": "GS4 ",
+    "Vers_o": "PREMIUM",
+    "Tipo": "Versão Topo",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "A partir de R$191.990",
     "Oferta_PCD": "",
-    "Validade_da_Oferta": ""
+    "Validade_da_Oferta": "31/10/2025"
   },
   {
-    "Modelos": "",
-    "Vers_o": "",
+    "Modelos": "GS4 ",
+    "Vers_o": "ELITE",
     "Tipo": "Versão Intermediária",
-    "Ano__Modelo": "",
-    "Condi__es": "",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "A partir de R$209.990 / 70% de entrada. Taxa 0 ou supervalorização no seu usado",
     "Oferta_PCD": "",
-    "Validade_da_Oferta": ""
+    "Validade_da_Oferta": "31/10/2025"
   },
   {
-    "Modelos": "",
-    "Vers_o": "",
+    "Modelos": "AION Y ",
+    "Vers_o": "ELITE",
     "Tipo": "Versão Intermediária",
-    "Ano__Modelo": "",
-    "Condi__es": "",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "A partir de R$187.990,00 / 50% de entrada.Taxa 0 ou supervalorização do seu usado.",
     "Oferta_PCD": "",
-    "Validade_da_Oferta": ""
+    "Validade_da_Oferta": "31/10/2025"
   },
   {
-    "Modelos": "",
-    "Vers_o": "",
-    "Tipo": "Versão Intermediária",
-    "Ano__Modelo": "",
-    "Condi__es": "",
+    "Modelos": "AION Y ",
+    "Vers_o": "PREMIUM",
+    "Tipo": "Versão Topo",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "A partir de R$187.990 / 70%  de entrada",
     "Oferta_PCD": "",
-    "Validade_da_Oferta": ""
+    "Validade_da_Oferta": "31/10/2025"
   },
   {
-    "Modelos": "",
-    "Vers_o": "",
+    "Modelos": "AION V ",
+    "Vers_o": "ELITE",
     "Tipo": "Versão Intermediária",
-    "Ano__Modelo": "",
-    "Condi__es": "",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "A partir de R$219.990",
     "Oferta_PCD": "",
-    "Validade_da_Oferta": ""
+    "Validade_da_Oferta": "31/10/2025"
   },
   {
-    "Modelos": "",
-    "Vers_o": "",
-    "Tipo": "Versão Intermediária",
-    "Ano__Modelo": "",
-    "Condi__es": "",
+    "Modelos": "HYPTECH",
+    "Vers_o": "ELITE",
+    "Tipo": "Versão Única",
+    "Ano__Modelo": "25/26",
+    "Condi__es": "A partir de R$309.990",
     "Oferta_PCD": "",
-    "Validade_da_Oferta": ""
-  },
-  {
-    "Modelos": "",
-    "Vers_o": "",
-    "Tipo": "Versão Intermediária",
-    "Ano__Modelo": "",
-    "Condi__es": "",
-    "Oferta_PCD": "",
-    "Validade_da_Oferta": ""
-  },
-  {
-    "Modelos": "",
-    "Vers_o": "",
-    "Tipo": "Versão Intermediária",
-    "Ano__Modelo": "",
-    "Condi__es": "",
-    "Oferta_PCD": "",
-    "Validade_da_Oferta": ""
-  },
-  {
-    "Modelos": "",
-    "Vers_o": "",
-    "Tipo": "Versão Intermediária",
-    "Ano__Modelo": "",
-    "Condi__es": "",
-    "Oferta_PCD": "",
-    "Validade_da_Oferta": ""
-  },
-  {
-    "Modelos": "",
-    "Vers_o": "",
-    "Tipo": "Versão Intermediária",
-    "Ano__Modelo": "",
-    "Condi__es": "",
-    "Oferta_PCD": "",
-    "Validade_da_Oferta": ""
+    "Validade_da_Oferta": "31/10/2025"
   }
 ]
