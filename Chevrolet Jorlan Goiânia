@@ -187,5 +187,23 @@
     "Condi__es": "De R$ 155.040 por R4 137.990 | Com taxa zero | Entrada facilitada",
     "Oferta_PCD": "Não",
     "Validade_da_Oferta": "31/10/2025"
+  },
+  {
+    "Modelos": "SPIN",
+    "Vers_o": "AT",
+    "Tipo": "Versão de entrada",
+    "Ano__Modelo": "2025/2034",
+    "Condi__es": "Por R$ 102.904",
+    "Oferta_PCD": "SIM",
+    "Validade_da_Oferta": "31/10/2025"
+  },
+  {
+    "Modelos": "TRACKER",
+    "Vers_o": "AT",
+    "Tipo": "Versão de entrada",
+    "Ano__Modelo": "2025/2035",
+    "Condi__es": "Por R$ 105.892 | Entrada de 60% e restante em 24x com taxa de 0,99%",
+    "Oferta_PCD": "SIM",
+    "Validade_da_Oferta": "31/10/2025"
   }
 ]
