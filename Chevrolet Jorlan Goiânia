@@ -1,39 +1,39 @@
 [
   {
-    "Modelos": "Novo Onix Hatch",
+    "Modelos": "Onix Hatch",
     "Vers_o": "MT",
     "Tipo": "Versão de entrada",
     "Ano__Modelo": "2025/2026",
-    "Condi__es": "De R$ 99.990, Por R$ 84.990,  à vista  |  5 Anos de Garantia",
+    "Condi__es": "De R$ 99.990, Por R$ 84.990,  à vista  ou Entrada 26.700, + 1.499, Mensais |  5 Anos de Garantia",
     "Oferta_PCD": "Não",
-    "Validade_da_Oferta": "04/11/2025"
+    "Validade_da_Oferta": "02/12/2025"
   },
   {
-    "Modelos": "Novo Onix Hatch Turbo",
-    "Vers_o": "AT",
-    "Tipo": "Versão Intermediária",
-    "Ano__Modelo": "2025/2026",
-    "Condi__es": "Entrada de R$ 32.990, + R$ 1.499, Mensais + Parcela Final  |  Com 5 Anos de Garantia",
-    "Oferta_PCD": "Não",
-    "Validade_da_Oferta": "04/11/2025"
-  },
-  {
-    "Modelos": "Novo Tracker",
+    "Modelos": "Onix Hatch Turbo",
     "Vers_o": "AT",
     "Tipo": "Versão de entrada",
     "Ano__Modelo": "2025/2026",
-    "Condi__es": "Por R$ 115.990 com 5 anos de garantia",
+    "Condi__es": "Entrada de R$ 39.990, + R$ 1.699, Mensais |  5 Anos de Garantia",
     "Oferta_PCD": "Não",
-    "Validade_da_Oferta": "04/11/2025"
+    "Validade_da_Oferta": "02/12/2025"
   },
   {
-    "Modelos": "Novo Tracker ",
+    "Modelos": "Tracker",
+    "Vers_o": "AT",
+    "Tipo": "Versão de entrada",
+    "Ano__Modelo": "2025/2026",
+    "Condi__es": "Por R$ 115.990 com 5 anos de Garantia",
+    "Oferta_PCD": "Não",
+    "Validade_da_Oferta": "02/12/2025"
+  },
+  {
+    "Modelos": "Tracker ",
     "Vers_o": "Premier",
     "Tipo": "Versão Topo",
     "Ano__Modelo": "2025/2026",
-    "Condi__es": "Desconto de R$ 25.550, taxa zero, 5 anos de garantia e super valorização no semi novo",
+    "Condi__es": "Por  R$ 155.990 com Taxa Zero  |  Colocando seu usado na troca | 5 Anos Garantia ",
     "Oferta_PCD": "Não",
-    "Validade_da_Oferta": "04/11/2025"
+    "Validade_da_Oferta": "02/12/2025"
   },
   {
     "Modelos": "SPARK EUV",
@@ -42,106 +42,106 @@
     "Ano__Modelo": "2025/2026",
     "Condi__es": "R$ 159.990 | Taxa Zero | Pronta Entrega",
     "Oferta_PCD": "Não",
-    "Validade_da_Oferta": "04/11/2025"
+    "Validade_da_Oferta": "02/12/2025"
   },
   {
     "Modelos": "Spin",
     "Vers_o": "LTZ",
     "Tipo": "Versão Intermediária",
     "Ano__Modelo": "2025/2025",
-    "Condi__es": "De R$ 152.640 por R$ 146.790, com 7 lugares e com super condição de financiamento",
+    "Condi__es": "De R$ 152.640 por R$ 146.790 á vista ou entrada de 50% e taxa 0,99% em 36x | 7 lugares ",
     "Oferta_PCD": "Não",
-    "Validade_da_Oferta": "04/11/2025"
+    "Validade_da_Oferta": "02/12/2025"
   },
   {
     "Modelos": "S10 ",
     "Vers_o": "High Country",
     "Tipo": "Versão Topo",
     "Ano__Modelo": "2025/2025",
-    "Condi__es": "De R$ 325.540 por R$ 299.900, com 5 anos de garantia.",
+    "Condi__es": "De R$ 325.540 por R$ 299.900 | Pronta entrega | 5 anos de Garantia.",
     "Oferta_PCD": "Não",
-    "Validade_da_Oferta": "04/11/2025"
+    "Validade_da_Oferta": "02/12/2025"
   },
   {
     "Modelos": "S10 ",
     "Vers_o": "LTZ",
     "Tipo": "Versão Intermediária",
     "Ano__Modelo": "2025/2026",
-    "Condi__es": "De R$ 326.840  por R$  R$ 292.531| Condições  especiais de financiamento",
+    "Condi__es": "De R$ 326.840  por R$  R$ 296.800| Condições  especiais de financiamento",
     "Oferta_PCD": "Não",
-    "Validade_da_Oferta": "04/11/2025"
+    "Validade_da_Oferta": "02/12/2025"
   },
   {
     "Modelos": "Silverado",
     "Vers_o": "High Country",
     "Tipo": "Versão Topo",
     "Ano__Modelo": "2024/2025",
-    "Condi__es": "De R$ 539.900 por R$ 449.900",
+    "Condi__es": "De R$ 539.900 por R$ 459.900",
     "Oferta_PCD": "Não",
-    "Validade_da_Oferta": "04/11/2025"
+    "Validade_da_Oferta": "02/12/2025"
   },
   {
     "Modelos": "Onix Hatch",
     "Vers_o": "100 anos",
     "Tipo": "Versão Intermediária",
     "Ano__Modelo": "2025/2026",
-    "Condi__es": "De R$ 104.490, por R$ 93.612 |  Taxa zero",
+    "Condi__es": "De R$ 104.490, por R$ 92.890 á vista ou taxa de 0,99% em 48x  |  5 anos de Garantia",
     "Oferta_PCD": "Não",
-    "Validade_da_Oferta": "04/11/2025"
+    "Validade_da_Oferta": "02/12/2025"
   },
   {
     "Modelos": "Onix Hatch",
     "Vers_o": "AT",
     "Tipo": "Versão de entrada",
     "Ano__Modelo": "2025/2026",
-    "Condi__es": "De R$ 113.990, por R$ 103.354 | Com taxa zero",
+    "Condi__es": "Por 89.990 á vista + 11x 990 no cartão | 5 anos de garantia",
     "Oferta_PCD": "Não",
-    "Validade_da_Oferta": "04/11/2025"
+    "Validade_da_Oferta": "02/12/2025"
   },
   {
     "Modelos": "Onix Hatch",
     "Vers_o": "LT",
     "Tipo": "Versão Intermediária",
     "Ano__Modelo": "2025/2026",
-    "Condi__es": "De R$ 119.990, por R$ 109.987 | Com taxa zero e super avaliação no semi novo",
+    "Condi__es": "De R$ 119.990, por R$ 110.987 | Com taxa zero e super avaliação no semi novo",
     "Oferta_PCD": "Não",
-    "Validade_da_Oferta": "04/11/2025"
+    "Validade_da_Oferta": "02/12/2025"
   },
   {
     "Modelos": "Onix Hatch",
     "Vers_o": "LTZ",
     "Tipo": "Versão Intermediária",
     "Ano__Modelo": "2025/2026",
-    "Condi__es": "De R$ 125.190, por R$ 115.869, | Com taxa zero",
+    "Condi__es": "De R$ 125.190, por R$ 114.890, | Com taxa zero | 5 anos de Garantia",
     "Oferta_PCD": "Não",
-    "Validade_da_Oferta": "04/11/2025"
+    "Validade_da_Oferta": "02/12/2025"
   },
   {
     "Modelos": "Onix Hatch",
     "Vers_o": "Premier",
     "Tipo": "Versão Topo",
     "Ano__Modelo": "2025/2026",
-    "Condi__es": "De R$ 130.890 por R$ 121.221, | Com taxa zero",
+    "Condi__es": "Por 119.990, ou 49.990, + 1.899, Mensais  | 5 anos de Garantia",
     "Oferta_PCD": "Não",
-    "Validade_da_Oferta": "04/11/2025"
+    "Validade_da_Oferta": "02/12/2025"
   },
   {
     "Modelos": "Onix Hatch",
     "Vers_o": "RS",
     "Tipo": "Versão Topo",
     "Ano__Modelo": "2025/2026",
-    "Condi__es": "De R$ 130.190 por R$ 122.227, | Com taxa zero e conceito em esportividade",
+    "Condi__es": "De R$ 130.190 por R$ 119.990, | Com taxa zero e conceito em esportividade",
     "Oferta_PCD": "Não",
-    "Validade_da_Oferta": "04/11/2025"
+    "Validade_da_Oferta": "02/12/2025"
   },
   {
     "Modelos": "Onix Plus",
     "Vers_o": "LT",
     "Tipo": "Versão Intermediária",
     "Ano__Modelo": "2025/2026",
-    "Condi__es": "De R$ 124.740 por R$ 115.151, | Com taxa zero e super avaliação no semi novo",
+    "Condi__es": "De R$ 124.740 por R$ 114.890, | Com taxa zero e super avaliação no semi novo",
     "Oferta_PCD": "Não",
-    "Validade_da_Oferta": "04/11/2025"
+    "Validade_da_Oferta": "02/12/2025"
   },
   {
     "Modelos": "Onix Plus",
@@ -150,7 +150,7 @@
     "Ano__Modelo": "2025/2026",
     "Condi__es": "De R$ 131.690 por R$ 121.972, |  Com taxa zero",
     "Oferta_PCD": "Não",
-    "Validade_da_Oferta": "04/11/2025"
+    "Validade_da_Oferta": "02/12/2025"
   },
   {
     "Modelos": "Onix Plus",
@@ -159,51 +159,51 @@
     "Ano__Modelo": "2025/2026",
     "Condi__es": "De R$ 138.190 po R$ 128.990, | Com taxa zero e super avaliação no semi novo",
     "Oferta_PCD": "Não",
-    "Validade_da_Oferta": "04/11/2025"
+    "Validade_da_Oferta": "02/12/2025"
   },
   {
     "Modelos": "Montana",
     "Vers_o": "LTZ",
     "Tipo": "Versão Intermediária",
     "Ano__Modelo": "2025/2026",
-    "Condi__es": "De R$ 165.290 por R$ 149.990 | Com taxa zero | Condição com semi novo na troca",
+    "Condi__es": "De R$ 165.290 por R$ 149.990 á vista | Com taxa zero | Condição com usado na troca",
     "Oferta_PCD": "Não",
-    "Validade_da_Oferta": "04/11/2025"
+    "Validade_da_Oferta": "02/12/2025"
   },
   {
     "Modelos": "Montana",
     "Vers_o": "Premier",
     "Tipo": "Versão Topo",
     "Ano__Modelo": "2025/2026",
-    "Condi__es": "De R$ 174.990 por R$ 159.990 | Com taxa zero | Condição com Semi novo na troca",
+    "Condi__es": "De R$ 174.990 por R$ 159.990 | Com taxa zero | Condição com usado na troca",
     "Oferta_PCD": "Não",
-    "Validade_da_Oferta": "04/11/2025"
+    "Validade_da_Oferta": "02/12/2025"
   },
   {
-    "Modelos": "Novo Tracker",
+    "Modelos": " Tracker",
     "Vers_o": "LT",
     "Tipo": "Versão Intermediária",
     "Ano__Modelo": "2025/2026",
     "Condi__es": "De R$ 155.040 por R4 137.990 | Com taxa zero | Entrada facilitada",
     "Oferta_PCD": "Não",
-    "Validade_da_Oferta": "04/11/2025"
+    "Validade_da_Oferta": "02/12/2025"
   },
   {
     "Modelos": "SPIN",
     "Vers_o": "AT",
     "Tipo": "Versão de entrada",
     "Ano__Modelo": "2025/2034",
-    "Condi__es": "Por R$ 102.904",
+    "Condi__es": "Por R$ 104.850",
     "Oferta_PCD": "SIM",
-    "Validade_da_Oferta": "04/11/2025"
+    "Validade_da_Oferta": "02/12/2025"
   },
   {
     "Modelos": "TRACKER",
     "Vers_o": "AT",
     "Tipo": "Versão de entrada",
     "Ano__Modelo": "2025/2035",
-    "Condi__es": "Por R$ 105.892 | Entrada de 60% e restante em 24x com taxa de 0,99%",
+    "Condi__es": "Por R$ 104.830 | Entrada de 60% e restante em 24x com taxa de 0,99%",
     "Oferta_PCD": "SIM",
-    "Validade_da_Oferta": "04/11/2025"
+    "Validade_da_Oferta": "02/12/2025"
   }
 ]
