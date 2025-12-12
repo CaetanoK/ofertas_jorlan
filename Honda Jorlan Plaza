@@ -11,16 +11,6 @@
   },
   {
     "Modelos": "City Hatch",
-    "Vers_o": "LX",
-    "Tipo": "Versão de entrada",
-    "Ano__Modelo": "25/26",
-    "Condi__es": "a partir de R$ 117.500",
-    "Oferta_PCD": "SIM",
-    "Diferenciais_do_ve_culo": "",
-    "Validade_da_Oferta": "31/12/2025"
-  },
-  {
-    "Modelos": "City Hatch",
     "Vers_o": "EX",
     "Tipo": "Versão Intermediária",
     "Ano__Modelo": "25/26",
@@ -55,16 +45,6 @@
     "Tipo": "Versão Topo",
     "Ano__Modelo": "25/26",
     "Condi__es": "a partir de R$ 152.800",
-    "Oferta_PCD": "Não",
-    "Diferenciais_do_ve_culo": "",
-    "Validade_da_Oferta": "31/12/2025"
-  },
-  {
-    "Modelos": "City Sedan ",
-    "Vers_o": "LX",
-    "Tipo": "Versão de entrada",
-    "Ano__Modelo": "25/26",
-    "Condi__es": "a partir de R$ 117.500",
     "Oferta_PCD": "Não",
     "Diferenciais_do_ve_culo": "",
     "Validade_da_Oferta": "31/12/2025"
@@ -175,26 +155,6 @@
     "Tipo": "Versão Intermediária",
     "Ano__Modelo": "25/26",
     "Condi__es": "Primeira parcela para junho de 2026 | Entrada + 48x de R$1.399,41 + parcela residual + IPVA 2026 grátis",
-    "Oferta_PCD": "Não",
-    "Diferenciais_do_ve_culo": "",
-    "Validade_da_Oferta": "31/12/2025"
-  },
-  {
-    "Modelos": "City Hatch",
-    "Vers_o": "LX",
-    "Tipo": "Versão de entrada",
-    "Ano__Modelo": "25/26",
-    "Condi__es": "(VENDA DIRETA) City Hatch com isenção de IPI e ICMS - Por: R$ 100.045,26 ",
-    "Oferta_PCD": "SIM",
-    "Diferenciais_do_ve_culo": "",
-    "Validade_da_Oferta": "31/12/2025"
-  },
-  {
-    "Modelos": "HR-V",
-    "Vers_o": "EXL",
-    "Tipo": "Versão Intermediária",
-    "Ano__Modelo": "25/26",
-    "Condi__es": "(VENDA DIRETA) Por: R$ 160.983,00",
     "Oferta_PCD": "Não",
     "Diferenciais_do_ve_culo": "",
     "Validade_da_Oferta": "31/12/2025"
